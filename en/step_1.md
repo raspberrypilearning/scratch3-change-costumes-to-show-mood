@@ -4,10 +4,8 @@
 <div style="flex-basis: 250px; flex-grow: 1">
 <div>
 **Abby says hmm**: [See inside](https://scratch.mit.edu/projects/498767227/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-right: 15px;">
-  <iframe allowtransparency="true" width="365" height="302" src="https://scratch.mit.edu/projects/embed/498767227/?autostart=false" frameborder="0"></iframe>
-</div>
-
+<iframe src="https://scratch.mit.edu/projects/498356569/?autostart=false" allowtransparency="true" width="365" height="302" frameborder="0" scrolling="no" allowfullscreen style="margin-right: 15px;"></iframe>
+  
 You can change costume before and after a `say for`{:class="block3looks"}, `think for`{:class="block3looks"}, `play sounds`{:class="block3sounds"}, or `wait`{:class="block3events"} block to make you character show their feelings.
 </div>
 <div>
