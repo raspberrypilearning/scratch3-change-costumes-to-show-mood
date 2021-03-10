@@ -1,11 +1,9 @@
-title: scratch3-change-costumes-to-show-mood
+title: Switch costumes to show the mood of a sprite
 hero_image: images/banner.png
-description: scratch3-change-costumes-to-show-mood description
+description: Switch to different costumes to show the mood of a sprite in a conversation or animation.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-03-10"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Switch costumes to show the mood of a sprite
