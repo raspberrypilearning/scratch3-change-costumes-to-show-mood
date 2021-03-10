@@ -19,6 +19,6 @@ think [Hmm...] for [2] secs
 switch costume to [abby-a v] // back to normal
 ```
 
-**Tip:** Make sure you use a block that takes time, not a `start sound`{:class="block3sound"} or `say`{:class="block3looks"} or `think`{:class="block3looks"} block, otherwise you won't see the costume change.
+**Tip:** Make sure you use a block that takes time, not a `start sound`{:class="block3sounds"} or `say`{:class="block3looks"} or `think`{:class="block3looks"} block, otherwise you won't see the costume change.
 </div>
 </div>
