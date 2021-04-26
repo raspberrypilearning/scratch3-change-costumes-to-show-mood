@@ -1,19 +1,19 @@
-**Abby says hmm**: [See inside](https://scratch.mit.edu/projects/498767227/editor){:target="_blank"}
+**Abby dit hmm** : [Voir à l'intérieur](https://scratch.mit.edu/projects/498767227/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498767227/?autostart=false" frameborder="0"></iframe>
 </div>
 
-You can `switch costume`{:class="block3looks"} before and after a `say for`{:class="block3looks"}, `think for`{:class="block3looks"}, `play sound`{:class="block3sound"}, or `wait`{:class="block3control"} block to make your character show their feelings.
+Tu peux `basculer sur le costume`{:class="block3looks"} avant et après un bloc `dire`{:class="block3looks"}, `penser à`{:class="block3looks"}, `jouer le son`{:class="block3sound"}, ou `attendre`{:class="block3control"} pour que ton personnage montre ses sentiments.
 
 ```blocks3
-switch costume to [abby-a v] // starting costume
-wait [1] seconds
-switch costume to [abby-b v] // show feelings
-think [Hmm...] for [2] seconds
-switch costume to [abby-a v] // back to starting costume
+basculer sur le costume [abby-a v] // commencer le costume
+attendre [1] seconde
+basculer sur le costume [abby-b v] // montrer les sentiments
+penser à [Hmm...] pendant [2] secondes
+basculer sur le costume [abby-a v] // retour au costume de départ
 ```
 
-**Tip:** Make sure that you use a block that has a time value, not a `start sound`{:class="block3sound"} or `say`{:class="block3looks"} or `think`{:class="block3looks"} block, otherwise you will not see the costume change.
+**Astuce :** assure-toi d'utiliser un bloc qui a une valeur temporelle, pas un `jouer le son`{:class="block3sound"} ou `dire`{:class="block3looks"} ou `penser`{:class="block3looks"}, sinon tu ne verras pas le changement de costume.
 
 
 
