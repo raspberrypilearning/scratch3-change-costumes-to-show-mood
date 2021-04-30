@@ -7,7 +7,7 @@ Tu peux `basculer sur le costume`{:class="block3looks"} avant et après un bloc 
 
 ```blocks3
 basculer sur le costume [abby-a v] // commencer le costume
-attendre [1] seconde
+wait [1] seconds
 basculer sur le costume [abby-b v] // montrer les sentiments
 penser à [Hmm...] pendant [2] secondes
 basculer sur le costume [abby-a v] // retour au costume de départ
