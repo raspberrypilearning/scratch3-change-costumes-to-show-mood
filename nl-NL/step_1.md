@@ -1,9 +1,9 @@
-**Abby says hmm**: [See inside](https://scratch.mit.edu/projects/498767227/editor){:target="_blank"}
+**Abby zegt hmm**: [Klik hier](https://scratch.mit.edu/projects/498767227/editor){:target="_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498767227/?autostart=false" frameborder="0"></iframe>
 </div>
 
-You can `switch costume`{:class="block3looks"} before and after a `say for`{:class="block3looks"}, `think for`{:class="block3looks"}, `play sound`{:class="block3sound"}, or `wait`{:class="block3control"} block to make your character show their feelings.
+Je kunt `wisselen van uiterlijk`{:class="block3looks"} voor en na een `zeg`{:class="block3looks"}, `denk`{:class="block3looks"}, `start geluid`{:class="block3sound"}, of `wacht`{:class="block3control"} blok om de stemming van je sprite te tonen.
 
 ```blocks3
 switch costume to [abby-a v] // starting costume
@@ -13,7 +13,7 @@ think [Hmm...] for [2] seconds
 switch costume to [abby-a v] // back to starting costume
 ```
 
-**Tip:** Make sure that you use a block that has a time value, not a `start sound`{:class="block3sound"} or `say`{:class="block3looks"} or `think`{:class="block3looks"} block, otherwise you will not see the costume change.
+**Tip:** Zorg ervoor dat je een blok gebruikt dat een tijdwaarde heeft, geen `start geluid`{:class="block3sound"} of `zeg`{:class="block3looks"} of `denk`{:class="block3looks"} blok, anders zal je het uiterlijk niet zien veranderen.
 
 
 
