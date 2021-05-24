@@ -3,7 +3,7 @@
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498767227/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Je kunt `wisselen van uiterlijk`{:class="block3looks"} voor en na een `zeg`{:class="block3looks"}, `denk`{:class="block3looks"}, `start geluid`{:class="block3sound"}, of `wacht`{:class="block3control"} blok om de stemming van je sprite te tonen.
+Je kunt `veranderen van uiterlijk`{:class="block3looks"} voor en na een `zeg sec.`{:class="block3looks"}, `denk sec.`{:class="block3looks"}, `start geluid en wacht`{:class="block3sound"}, of `wacht`{:class="block3control"} blok om de stemming van je sprite te tonen.
 
 ```blocks3
 switch costume to [abby-a v] // starting costume
