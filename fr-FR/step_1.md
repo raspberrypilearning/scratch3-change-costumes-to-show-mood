@@ -1,4 +1,4 @@
-**Abby thinks "Hmm"**: [See inside](https://scratch.mit.edu/projects/498767227/editor){:target="_blank"}
+**Abby pense "Hmm"** : [Voir à l'intérieur](https://scratch.mit.edu/projects/498767227/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498767227/?autostart=false" frameborder="0"></iframe>
 </div>
