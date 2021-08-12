@@ -1,5 +1,5 @@
-starting costume
+はじめのコスチューム
 
-show feelings
+気持ちを表します
 
-back to starting costume
+はじめのコスチュームにもどります
