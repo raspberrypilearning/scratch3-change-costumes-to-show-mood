@@ -1,11 +1,11 @@
 ---
-title: Show the mood of a sprite with costumes
+title: コスチュームを切りかえてスプライトの気持ちを表そう
 hero_image: images/banner.png
-description: Switch to different costumes to show the mood of a sprite in a conversation or animation
+description: べつのコスチュームに切りかえて、会話やアニメーションでスプライトの気持ちを表しましょう
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-03-10"
 steps:
   - 
-    title: Show the mood of a sprite with costumes
+    title: コスチュームを切りかえてスプライトの気持ちを表そう
