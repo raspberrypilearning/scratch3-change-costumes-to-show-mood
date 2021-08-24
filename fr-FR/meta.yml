@@ -1,10 +1,10 @@
 ---
-title: Changer de costume pour montrer l'humeur d'un sprite
+title: Montrer l'humeur d'un sprite avec des costumes
 hero_image: images/banner.png
-description: Passer à différents costumes pour montrer l'humeur d'un sprite dans une conversation ou une animation.
+description: Passer à différents costumes pour montrer l'humeur d'un sprite dans une conversation ou une animation
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-03-10"
 steps:
-  - title: Changer de costume pour montrer l'humeur d'un sprite
+  - title: Montrer l'humeur d'un sprite avec des costumes

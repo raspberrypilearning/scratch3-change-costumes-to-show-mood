@@ -1,4 +1,4 @@
-**Abby تقول همم**: [انظر داخل](https://scratch.mit.edu/projects/498767227/editor){:target="_blank"}
+**Abby تفكر "همم"**: [انظر داخل](https://scratch.mit.edu/projects/498767227/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498767227/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -14,6 +14,3 @@ switch costume to [abby-a v] // العودة إلى مظهر البداية
 ```
 
 **تلميح:** تأكد من استخدام كتلة لها قيمة زمنية، ليس `ابدأ الصوت`{:class="block3sound"} أو `قل`{:class="block3looks"} أو `فكّر`{:class="block3looks"}، وإلا لن ترى تغير المظهر.
-
-
-
