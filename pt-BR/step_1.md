@@ -1,9 +1,9 @@
-**Abby thinks "Hmm"**: [See inside](https://scratch.mit.edu/projects/498767227/editor){:target="_blank"}
+**Abby pensa "Hmm"**: [Veja dentro de](https://scratch.mit.edu/projects/498767227/editor){: target = "_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498767227/?autostart=false" frameborder="0"></iframe>
 </div>
 
-You can use `switch costume to`{:class="block3looks"} blocks before and after a `say for`{:class="block3looks"}, `think for`{:class="block3looks"}, `play sound`{:class="block3sound"}, or `wait`{:class="block3control"} block to make your character show their feelings.
+Você pode `mudar a fantasia`{:class="block3look"} antes e depois de `dizer por`{:class="block3looks"}, `pense por`{:class="block3looks"}, `reproduza som`{:class="block3sound"}, ou `espere bloco`{:class="block3control"} para fazer com que seu personagem mostre seus sentimentos.
 
 ```blocks3
 switch costume to [abby-a v] // starting costume
@@ -13,7 +13,7 @@ think [Hmm...] for [2] seconds
 switch costume to [abby-a v] // back to starting costume
 ```
 
-**Tip:** Make sure that you use a block that has a time value, not a `start sound`{:class="block3sound"}, `say`{:class="block3looks"}, or `think`{:class="block3looks"} block, otherwise, you will not see the costume change.
+**Dica:** Certifique-se de usar um bloco que tenha um valor de tempo, não um `som inicial`{:class="block3sound"} ou `diga`{:class="block3look"} ou bloco `pense` {:class="block3look"}, caso contrário, você não verá a fantasia mudar.
 
 
 
