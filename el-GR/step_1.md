@@ -1,6 +1,6 @@
-**Η Abby σκέφτεται "Χμμ"**: [Δες εδώ](https://scratch.mit.edu/projects/498767227/editor){:target="_blank"}
+
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498767227/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Μπορείς να `αλλάξεις ενδυμασία`{:class="block3looks"} πριν και μετά από ένα μπλοκ `πες για`{:class="block3looks"}, `σκέψου για`{:class="block3looks"}, `παίξε ήχο`{:class="block3sound"}, ή `περίμενε`{:class="block3control"} για να κάνεις τον χαρακτήρα σου να δείξει τα συναισθήματά του.
