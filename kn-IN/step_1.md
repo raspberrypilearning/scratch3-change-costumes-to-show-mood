@@ -1,6 +1,6 @@
-**Abby thinks "Hmm"**: [See inside](https://scratch.mit.edu/projects/498767227/editor){:target="_blank"}
+
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498767227/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 You can use `switch costume to`{:class="block3looks"} blocks before and after a `say for`{:class="block3looks"}, `think for`{:class="block3looks"}, `play sound`{:class="block3sound"}, or `wait`{:class="block3control"} block to make your character show their feelings.
