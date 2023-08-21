@@ -1,6 +1,6 @@
-**Еббі думає: «Хмм»**: [Переглянути код](https://scratch.mit.edu/projects/498767227/editor){:target="_blank"}
+
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498767227/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Ти можеш використовувати блоки `змінити образ на`{:class="block3looks"} до і після `говорити`{:class="block3looks"}, `подумати`{:class="block3looks"}, `відтворити звук`{:class="block3sound"}, або блок `чекати`{:class="block3control"}, щоб змусити твого персонажа проявляти свої почуття.
