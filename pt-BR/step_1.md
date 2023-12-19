@@ -3,7 +3,7 @@
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
-Você pode `mudar a fantasia`{:class="block3look"} antes e depois de `dizer por`{:class="block3looks"}, `pense por`{:class="block3looks"}, `reproduza som`{:class="block3sound"}, ou `espere bloco`{:class="block3control"} para fazer com que seu personagem mostre seus sentimentos.
+Você pode usar o bloco `mude para a fantasia`{:class="block3look"} antes e depois dos blocos `diga por`{:class="block3looks"}, `pense por`{:class="block3looks"}, `toque o som até o fim`{:class="block3sound"} ou `espere`{:class="block3control"} para fazer com que seu personagem mostre seus sentimentos.
 
 ```blocks3
 switch costume to [abby-a v] // starting costume
@@ -13,7 +13,7 @@ think [Hmm...] for [2] seconds
 switch costume to [abby-a v] // back to starting costume
 ```
 
-**Dica:** Certifique-se de usar um bloco que tenha um valor de tempo, não um `som inicial`{:class="block3sound"} ou `diga`{:class="block3look"} ou bloco `pense` {:class="block3look"}, caso contrário, você não verá a fantasia mudar.
+**Dica:** Certifique-se de usar um bloco que tenha um valor de tempo, não os blocos `toque o som`{:class="block3sound"}, `diga`{:class="block3look"} ou `pense` {:class="block3look"}, caso contrário, você não verá a fantasia mudar.
 
 
 
