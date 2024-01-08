@@ -1,0 +1,10 @@
+---
+title: Mostra l'umore di uno sprite usando i costumi
+hero_image: images/banner.png
+description: Passa a costumi diversi per modificare l'umore di uno sprite in una conversazione o un'animazione
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-03-10"
+steps:
+  - title: Mostra l'umore di uno sprite con i costumi
