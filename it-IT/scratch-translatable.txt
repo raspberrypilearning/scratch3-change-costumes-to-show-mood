@@ -1,5 +1,5 @@
-starting costume
+costume iniziale
 
-show feelings
+mostra sentimenti
 
-back to starting costume
+ritorna al costume iniziale
