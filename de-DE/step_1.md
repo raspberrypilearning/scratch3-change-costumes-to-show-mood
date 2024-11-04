@@ -3,7 +3,7 @@
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
-You can use `switch costume to`{:class="block3looks"} blocks before and after a `say for`{:class="block3looks"}, `think for`{:class="block3looks"}, `play sound`{:class="block3sound"}, or `wait`{:class="block3control"} block to make your character show their feelings.
+Du kannst `Wechsle zu Kostüm ...`{:class="block3looks"} Block vor und nach einem `sage für`{:class="block3looks"}, `denken für`{:class="block3looks"}, `spiele Klang`{:class="block3sound"}, oder `warte`{:class="block3control"} Bausteine, damit dein Charakter seine Gefühle zeigt.
 
 ```blocks3
 switch costume to [abby-a v] // starting costume
@@ -13,7 +13,7 @@ think [Hmm...] for [2] seconds
 switch costume to [abby-a v] // back to starting costume
 ```
 
-**Tip:** Make sure that you use a block that has a time value, not a `start sound`{:class="block3sound"}, `say`{:class="block3looks"}, or `think`{:class="block3looks"} block, otherwise, you will not see the costume change.
+**Tipp:** Stelle sicher, dass du einen Block mit einem Zeitwert verwendest und keinen `spiele Klang`{:class="block3sound"}, `sage`{:class="block3looks"} oder `denke`{:class="block3looks"} Block. Andernfalls ist der Kostümwechsel nicht sichtbar.
 
 
 
